@@ -3,7 +3,9 @@ Description: We choose the zip code 10027 to explore the incidents happened in t
 
 Top10: 
 1. read in the csv file 
-2. 
+2. groupby complaint type
+3. sort incident numbers by decending order
+4. provide top 10 complaint type with incident numbers
 
 Parking:
 1. read the csv file
