@@ -1,5 +1,7 @@
 # TFA_Project
-Description
+Description:
+Top10: 
+1. read in the csv file
 
 Team Members: Hanzhi Zhang, Guangling Ma, Section2
 
